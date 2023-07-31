@@ -59,5 +59,5 @@ Here's a dog:
 3. Exit
 Enter your choice: 3
 
-Exiting...
+Exiting....
 ```
